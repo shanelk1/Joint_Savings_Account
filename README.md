@@ -1,6 +1,9 @@
 # Unit 20 - "Joint Savings Account"
 
-![alt=“”](Images/20-5-challenge-image.png)
+
+
+![20-5-challenge-image](https://user-images.githubusercontent.com/89318890/166864597-ba53aa50-2a21-4f92-81a3-da817efc0d19.png)
+
 
 ### Background
 
